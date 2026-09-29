@@ -1,447 +1,264 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Nimisha%20Wargantiwar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20AI%2FRAG&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Nimisha%20Wargantiwar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20AI%2FRAG&descSize=18&descAlignY=60" width="100%" alt="Nimisha Wargantiwar header" />
 
 </div>
 
 <p align="center">
-
-<a href="https://portfolio-nimisha9.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/nimishaWargantiwar">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:wnimisha20@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+<a href="https://portfolio-nimisha9.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/nimishaWargantiwar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:wnimisha20@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+with+Java+%26+Spring+Boot;Creating+React+Applications;Exploring+RAG+%26+LLM+Applications;DSA+%7C+System+Design+%7C+Software+Engineering;PICT+IT+%7C+9.62+CGPA" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Java+%26+Spring+Boot;React.js+%7C+Node.js+%7C+Docker;RAG+%26+LLM+Applications;DSA+%7C+System+Design;B.E.+IT+at+PICT+%7C+9.62+CGPA" alt="Typing animation" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Nimisha Wargantiwar**, a B.E. Information Technology student at **Pune Institute of Computer Technology (PICT)**, passionate about building practical software and understanding how systems work from the inside out.
+I'm **Nimisha Wargantiwar**, a B.E. Information Technology student at **Pune Institute of Computer Technology (PICT)**. I build full-stack applications with **Java, Spring Boot, React.js and Node.js**, and I'm exploring how **RAG and LLM applications** fit into real software products.
 
-My development journey sits at the intersection of:
+I like taking an idea from **problem → architecture → implementation → deployment**, and understanding why a system is designed the way it is.
 
-* 💻 **Full-Stack Development**
-* ☕ **Java & Spring Boot**
-* ⚛️ **React & Modern Frontend Development**
-* 🤖 **AI, RAG & LLM Applications**
-* 🧠 **Data Structures & Algorithms**
-* 🏗️ **Backend Architecture & System Design**
-* 🗄️ **SQL & NoSQL Databases**
-
-I enjoy taking an idea from **problem statement → architecture → implementation → deployment** and turning it into something people can actually use.
-
-### 🎓 Academics
-
-* 🎓 **B.E. Information Technology — PICT**
-* 📈 **9.62 CGPA**
-* 💻 **Diploma in Computer Engineering**
-* 🏆 **94.57% in Diploma**
-
-### 💼 Experience
-
-**Full Stack Developer Intern — PICT**
-
-Worked on a **Smart CIE Evaluation Platform** focused on digitizing evaluation workflows, role-based access, grading and automated reporting.
-
-### 🌱 Currently Exploring
-
-* Retrieval-Augmented Generation (RAG)
-* LLM-powered applications
-* Vector embeddings & semantic search
-* LangChain
-* Backend architecture
-* System design
-* Scalable full-stack applications
+- 💻 Full-Stack Development
+- ☕ Java & Spring Boot
+- ⚛️ React.js & Node.js
+- 🗄️ SQL / NoSQL Databases
+- 🐳 Docker
+- 🧠 Data Structures & Algorithms
+- 🏗️ System Design
+- 🤖 AI / RAG / LLM Applications
 
 ---
 
-# 🧭 Engineering Focus
+## 🎓 Education
+
+| Program | Institution | Score |
+| --- | --- | --- |
+| **B.E. Information Technology** (2024 – Present) | Pune Institute of Computer Technology (PICT) | **9.62 CGPA** |
+| **Diploma in Computer Engineering** (2021 – 2024) | Pimpri Chinchwad Polytechnic, Pune | **94.57%** |
+
+---
+
+## 💼 Experience
+
+**Full Stack Developer Intern — Pune Institute of Computer Technology (PICT)** · Feb 2026 – Apr 2026
+
+Worked with faculty to turn requirements into evaluation workflows for the **Smart CIE Evaluation Platform**, implementing authentication, assessment and automated reporting features, and Dockerizing the deployment.
+
+**Web Developer Intern — Nebula Technology** · Jun 2023 – Aug 2023
+
+Built a responsive Tour and Travels website with HTML, CSS and JavaScript, including navigation and booking functionality.
+
+---
+
+## 🧭 Engineering Focus
 
 ```text
-                    ┌─────────────────────────────┐
-                    │       Real-World Problem    │
-                    │  Product • Automation • AI  │
-                    └──────────────┬──────────────┘
-                                   │
-                                   ▼
-              ┌──────────────────────────────────────┐
-              │           Application Layer           │
-              │        React • REST APIs • UI         │
-              └──────────────────┬───────────────────┘
-                                 │
-                                 ▼
-              ┌──────────────────────────────────────┐
-              │           Backend Engineering         │
-              │ Java • Spring Boot • Node • Express  │
-              └──────────────────┬───────────────────┘
-                                 │
-                   ┌─────────────┴─────────────┐
-                   ▼                           ▼
-        ┌───────────────────┐       ┌────────────────────┐
-        │ Data & Persistence│       │ AI / Intelligence  │
-        │ MySQL • MongoDB   │       │ RAG • Embeddings   │
-        │ PostgreSQL        │       │ LLM Applications   │
-        └───────────────────┘       └────────────────────┘
-                   │                           │
-                   └─────────────┬─────────────┘
-                                 ▼
-                    ┌────────────────────────┐
-                    │   Deployment & DevOps  │
-                    │ Docker • Git • GitHub  │
-                    └────────────────────────┘
+        React  ──►  REST APIs  ──►  Spring Boot / Node.js
+                                          │
+                       ┌──────────────────┴──────────────────┐
+                       ▼                                     ▼
+              PostgreSQL · MySQL · MongoDB        RAG · Embeddings · LLMs
+                       │                                     │
+                       └──────────────────┬──────────────────┘
+                                          ▼
+                                 Docker · Git · GitHub
 ```
 
 ---
 
-# 🧰 Technology Stack
+## 🧰 Technology Stack
 
-### Languages
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,python&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,python&perline=8" alt="Languages" />
 
-### Frontend
+**Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=8" alt="Frontend" />
 
-### Backend
+**Backend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=8" alt="Backend" />
 
-### Databases
+**Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=8" alt="Databases" />
 
-### AI / RAG
+**Tools & DevOps**
 
-```text
-RAG
-LLM Applications
-Embeddings
-Semantic Search
-Document Retrieval
-LangChain
-Vector Databases
-```
+<img src="https://skillicons.dev/icons?i=git,github,docker&perline=8" alt="Tools" />
 
-### Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea&perline=8" />
-</p>
-
-| Area          | Technologies                                         |
-| ------------- | ---------------------------------------------------- |
-| **Languages** | Java, C++, C, JavaScript, Python                     |
-| **Frontend**  | HTML, CSS, React.js, Tailwind CSS                    |
-| **Backend**   | Spring Boot, Node.js, Express.js                     |
-| **Databases** | MySQL, MongoDB, PostgreSQL                           |
-| **AI**        | RAG, LLMs, LangChain, Embeddings                     |
-| **Core CS**   | DSA, OOP, DBMS, Operating Systems, Computer Networks |
-| **Tools**     | Git, GitHub, Docker, VS Code, IntelliJ IDEA          |
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Java, C++, C, JavaScript, Python |
+| **Frontend** | HTML, CSS, React.js, Tailwind CSS |
+| **Backend** | Spring Boot, Node.js, Express.js |
+| **Databases** | MySQL, MongoDB, PostgreSQL |
+| **AI** | RAG, LLMs, LangChain, Embeddings, Semantic Search, Vector Databases, Document Retrieval |
+| **Tools** | Git, GitHub, Docker |
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🔐 VaultX — Secure Document Management Platform
+### 🔐 VaultX — Secure Document Management Platform
 
-**Java · Spring Boot · React · PostgreSQL · MinIO/S3**
+**Java · Spring Boot · PostgreSQL · React.js · MinIO/S3**
 
-A full-stack document management platform designed around secure document storage and intelligent document operations.
+A full-stack document management platform with role-based access control, content search and duplicate detection.
 
-### Key Features
-
-* 🔐 Role-based access control
-* 📄 Document upload and management
-* 🔎 Content search
-* ♻️ Duplicate detection
-* 📑 PDF merge and split functionality
-* 🔗 Expiring share links
-* ⬇️ Download limits
-* 🗄️ Object storage using MinIO/S3
-
-### Engineering Focus
+- Role-based access control
+- Document search and duplicate detection
+- PDF merge and split toolkit
+- Expiring share links with download limits
+- Object storage with MinIO/S3
 
 ```text
-React Frontend
-      ↓
-Spring Boot REST APIs
-      ↓
-Business & Security Logic
-      ↓
-PostgreSQL + Object Storage
-      ↓
-Document Processing
+React  ──►  Spring Boot REST APIs  ──►  PostgreSQL + MinIO/S3
 ```
 
 ---
 
-## 📄 DocuMind AI — RAG Document Q&A
+### 📄 DocuMind AI — RAG Document Q&A
 
-**Python · Streamlit · LangChain · Embeddings · LLM**
+**Python · Streamlit · LangChain · HuggingFace Embeddings · LLM**
 
-A document question-answering application that allows users to upload PDFs and ask questions about their contents.
-
-### RAG Pipeline
+Upload a PDF, ask questions, and get answers generated by an LLM from the most relevant parts of the document.
 
 ```text
-PDF
- ↓
-Text Extraction
- ↓
-Chunking
- ↓
-Embedding Generation
- ↓
-Vector Store
- ↓
-Semantic Retrieval
- ↓
-Relevant Context
- ↓
-LLM
- ↓
-Grounded Answer
-```
-
-The project focuses on understanding the complete RAG pipeline rather than treating an LLM as a black box.
-
----
-
-## 📊 PICT Smart CIE Evaluation Platform
-
-**React · Tailwind CSS · Node.js · Express.js · MongoDB · Docker**
-
-A full-stack platform designed to digitize Continuous Internal Evaluation workflows.
-
-### Key Features
-
-* 👥 Role-based authentication
-* 📋 Rubric-based evaluation
-* 📊 Digital grading workflows
-* 📑 Automated Excel reports
-* 📄 PDF report generation
-* 🗄️ MongoDB data management
-* 🐳 Dockerized development/deployment
-
-### Architecture
-
-```text
-React + Tailwind
-       ↓
-Express REST API
-       ↓
-Business Logic
-       ↓
-MongoDB
-       ↓
-Automated Reports
+PDF → Text Extraction → Chunking → Embeddings → Vector Store
+    → Semantic Retrieval → Relevant Context → LLM → Answer
 ```
 
 ---
 
-## 🤖 StockPulse — Intelligent Pricing System
+### 📊 PICT Smart CIE Evaluation Platform
+
+**React.js · Tailwind CSS · Node.js · Express.js · MongoDB · Docker**
+
+A full-stack application that digitizes Continuous Internal Evaluation.
+
+- Role-based authentication for faculty and admin users
+- Rubric-based grading modules
+- Automated Excel and PDF report generation
+- Containerized with Docker
+
+```text
+React + Tailwind  ──►  Express REST API  ──►  MongoDB  ──►  Excel / PDF Reports
+```
+
+---
+
+### 📈 StockPulse — Intelligent Pricing System
 
 **Java · Spring Boot · REST APIs · Strategy Pattern**
 
-A backend-oriented pricing system that explores automated pricing recommendations based on product information, pricing strategies and business triggers.
-
-### Engineering Concepts
-
-* REST API design
-* Spring Boot architecture
-* Strategy Pattern
-* Rule-based pricing
-* Domain models
-* Service-layer architecture
-* Database-backed application design
+A backend-oriented pricing system built around pricing strategies, business triggers, domain models and a service-layer architecture.
 
 ---
 
-# 🧠 AI / RAG Journey
+## 🤖 RAG / AI
 
-I'm particularly interested in the transition from traditional software systems to **AI-powered software products**.
+I'm learning how to build AI features as a useful part of a larger product, not just a chatbot.
 
-My current learning path:
+| Topic | Focus |
+| --- | --- |
+| **RAG** | Retrieval-Augmented Generation pipelines |
+| **LLM Applications** | Building apps around language models |
+| **LangChain** | Orchestrating retrieval and generation |
+| **Embeddings** | Representing text for search |
+| **Semantic Search** | Finding relevant context by meaning |
+| **Vector Databases** | Storing and querying embeddings |
+| **Document Retrieval** | Getting the right context to the LLM |
+
+---
+
+## 🏗️ Engineering Approach
 
 ```text
-Traditional Application
-        ↓
-REST APIs + Databases
-        ↓
-Machine Learning Models
-        ↓
-LLM Applications
-        ↓
-Embeddings
-        ↓
-Vector Search
-        ↓
-RAG Pipelines
-        ↓
-AI-powered Full-Stack Products
+Problem → Requirements → Architecture → Data Model → APIs
+        → Business Logic → Frontend → Testing → Deployment
 ```
 
-I'm especially interested in building systems where AI is not just a chatbot, but a useful component inside a larger product.
+I like understanding not only how to write the code, but why the system is designed that way.
 
 ---
 
-# 🏗️ How I Think About Software
+## 🧩 Core CS
 
-I like breaking a problem into layers:
-
-```text
-1. Problem
-      ↓
-2. Requirements
-      ↓
-3. Features
-      ↓
-4. Architecture
-      ↓
-5. Data Model
-      ↓
-6. APIs
-      ↓
-7. Business Logic
-      ↓
-8. Frontend
-      ↓
-9. Testing
-      ↓
-10. Deployment
-```
-
-This approach helps me understand not just **how to write the code**, but **why the system is designed that way**.
+| Area | Topics |
+| --- | --- |
+| 🧠 **DSA** | Data Structures & Algorithms |
+| ☕ **OOP** | Object-Oriented Programming |
+| 🗄️ **DBMS** | SQL and NoSQL databases |
+| ⚙️ **Operating Systems** | Core OS concepts |
+| 🌐 **Computer Networks** | Core networking concepts |
+| 🏗️ **System Design** | Designing scalable systems |
 
 ---
 
-# 🧩 Core Computer Science
+## 🌟 Leadership
 
-| Area                        | What I'm Working On                                                          |
-| --------------------------- | ---------------------------------------------------------------------------- |
-| 🧠 **DSA**                  | Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Hashing |
-| ☕ **OOP**                   | Encapsulation, Inheritance, Polymorphism, Abstraction                        |
-| 🗄️ **DBMS**                | SQL, Joins, Indexing, Transactions, Normalization                            |
-| ⚙️ **Operating Systems**    | Processes, Threads, Scheduling, Memory Management, Synchronization           |
-| 🌐 **Computer Networks**    | OSI/TCP-IP, HTTP, DNS, IP, Routing, Transport Layer                          |
-| 🏗️ **System Design**       | APIs, databases, scalability, caching, architecture                          |
-| 🔧 **Software Engineering** | Git, REST APIs, Docker, debugging, deployment                                |
+- **External Affairs Head, Game Dev Utopia** (Jul 2025 – Jul 2026) — managed external relations, built collaborations with student organizations and coordinated inter-college technical events.
+- **Organizer & Speaker, Special Interests Groups (SIGs)** (Apr 2025) — conducted a 3-day Web Development Bootcamp with 100+ attendees covering HTML, CSS and JavaScript.
+- **President, Rotary Club, Pimpri Chinchwad Polytechnic** (Oct 2021 – Sep 2022) — led community service activities, awareness campaigns and club events.
 
 ---
 
-# 📈 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nimishaWargantiwar&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimishaWargantiwar&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nimishaWargantiwar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimishaWargantiwar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=nimishaWargantiwar&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nimishaWargantiwar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nimishaWargantiwar&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nimishaWargantiwar&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution activity graph" />
 </p>
 
 ---
 
-# 🎯 Currently Building
+## 🎯 Currently Building & Learning
 
-### 🤖 AI & RAG
-
-Building and experimenting with document-based AI systems, retrieval pipelines, embeddings and LLM-powered applications.
-
-### ☕ Backend Engineering
-
-Going deeper into Spring Boot, REST APIs, database design, design patterns and backend architecture.
-
-### 🧠 DSA & Interview Preparation
-
-Strengthening problem-solving skills through DSA, core CS subjects and system design.
-
-### 🌐 Full-Stack Development
-
-Building complete applications where frontend, backend, database and deployment work together as one system.
+- 🤖 **Building:** document-based AI systems with RAG, embeddings and LLMs
+- ☕ **Deepening:** Spring Boot, REST APIs and backend architecture
+- 🧠 **Practicing:** Data Structures & Algorithms and System Design
+- 🌐 **Growing:** full-stack applications where frontend, backend, database and deployment work together
 
 ---
 
-# 🌟 What I Like Building
-
-```text
-AI Applications
-      +
-Backend Systems
-      +
-Clean Interfaces
-      +
-Useful Products
-      =
-Software I Enjoy Building
-```
-
-I'm particularly interested in projects that combine **strong engineering fundamentals with practical AI capabilities**.
-
----
-
-# 📚 Learning Philosophy
+## 📚 Learning Philosophy
 
 > **Understand the fundamentals. Build the system. Break it. Debug it. Improve it.**
-
-I believe the best way to learn software engineering is to move continuously between:
 
 **Learning → Building → Debugging → Understanding → Rebuilding**
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Contact
 
-I'm open to **internships, software engineering opportunities, collaborations, hackathons and interesting technical projects.**
+I'm open to internships, software engineering opportunities and collaborations.
 
 <p align="center">
-
-<a href="https://portfolio-nimisha9.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/nimishaWargantiwar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:wnimisha20@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+<a href="https://portfolio-nimisha9.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/nimishaWargantiwar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:wnimisha20@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 <div align="center">
 
-### 🚀 Building software, learning continuously, and turning ideas into working systems.
+**Building software, learning continuously, and turning ideas into working systems.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
